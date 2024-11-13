@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidRetrofitGet</string>
+    <string name="exit">Выход</string>
 </resources>
